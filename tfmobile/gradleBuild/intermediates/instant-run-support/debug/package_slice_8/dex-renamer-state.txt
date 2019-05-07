@@ -1,0 +1,4 @@
+#Sun May 05 20:09:49 IST 2019
+base.0=C\:\\Users\\HP LAPTOP\\Desktop\\JBM\\Mobilenet\\tensorflow-for-poets-2-master\\android\\tfmobile\\gradleBuild\\intermediates\\transforms\\dexMerger\\debug\\8
+renamed.0=classes.dex
+file.0=C\:\\Users\\HP LAPTOP\\Desktop\\JBM\\Mobilenet\\tensorflow-for-poets-2-master\\android\\tfmobile\\gradleBuild\\intermediates\\transforms\\dexMerger\\debug\\8\\classes.dex
